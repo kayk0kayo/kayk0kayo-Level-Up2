@@ -1,0 +1,6 @@
+{
+  "name": "Solo Leveling: Ascensão Cósmica",
+  "description": "Um RPG de texto incremental baseado em Solo Leveling com ciclo clicker, gacha de classes, fendas com portais cósmicos, gerenciamento de status e o Oráculo divino integrado à I.A. Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
